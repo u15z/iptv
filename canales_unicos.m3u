@@ -1,0 +1,984 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Marvel Cinematic Universe" tvg-logo="https://canalesenvivotv.web.app/img/canales/mcu.webp" group-title="TV - Internacional",Marvel Cinematic Universe
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+
+#EXTINF:-1 tvg-name="Latina" tvg-logo="https://canalesenvivotv.web.app/img/canales/latina.webp" group-title="TV - Perú",Latina
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+
+#EXTINF:-1 tvg-name="Latina Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/latinanoticias.webp" group-title="TV - Perú",Latina Noticias
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Latina Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/latinaclasicos.webp" group-title="TV - Perú",Latina Clasicos
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
+
+#EXTINF:-1 tvg-name="America TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/americatv.webp" group-title="TV - Perú",America TV
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+
+#EXTINF:-1 tvg-name="Panamericana TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/panamericana.webp" group-title="TV - Perú",Panamericana TV
+https://cablered.iptvperu.tv:1936/transcoder/panamerica_local.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Perú" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvperu.webp" group-title="TV - Perú",TV Perú
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://canalesenvivotv.web.app/img/canales/atv.webp" group-title="TV - Perú",ATV
+https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+
+#EXTINF:-1 tvg-name="ATV +" tvg-logo="https://canalesenvivotv.web.app/img/canales/atvmas.webp" group-title="TV - Perú",ATV +
+https://ddycmnicl95kp.cloudfront.net/live/32nynqn38go4/master.m3u8
+
+#EXTINF:-1 tvg-name="ATV Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/atvsur.webp" group-title="TV - Perú",ATV Sur
+https://ddycmnicl95kp.cloudfront.net/live/jryddd3ktckq/master.m3u8
+
+#EXTINF:-1 tvg-name="Exitosa Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/exitosanoticias.webp" group-title="TV - Perú",Exitosa Noticias
+https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/index.m3u8
+
+#EXTINF:-1 tvg-name="PBO Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/pbonoticias.webp" group-title="TV - Perú",PBO Noticias
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RPP Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/rppnoticias.webp" group-title="TV - Perú",RPP Noticias
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Willax" tvg-logo="https://canalesenvivotv.web.app/img/canales/willax.webp" group-title="TV - Perú",Willax
+https://cablered.iptvperu.tv:1936/cablered/willax-res.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Popcorn Central" tvg-logo="https://canalesenvivotv.web.app/img/canales/popcorncentral.webp" group-title="TV - Mexico",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+
+#EXTINF:-1 tvg-name="Distrito Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/distritocomedia.webp" group-title="TV - Internacional",Distrito Comedia
+https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Palmeras TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/palmerastv.webp" group-title="TV - Internacional",Palmeras TV
+https://play.agenciastreaming.com:8081/palmerastv/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal +TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/canalmastv.webp" group-title="TV - Perú",Canal +TV
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canela TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="TV - Estados Unidos",Canela TV
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-name="Narco Drama" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="TV - Estados Uidos",Narco Drama
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Novelas Legendarias" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="TV - Ecuador",Novelas Legendarias
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 tvg-name="Novelas Turcas" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="TV - Ecuador",Novelas Turcas
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://canalesenvivotv.web.app/img/canales/telemundo.webp" group-title="TV - Internacional",Telemundo
+https://cablered.iptvperu.tv:1936/cablered/telemundo_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="RCN Novelas" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnnovelas.webp" group-title="TV - Colombia",RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/chunklist_w1774164529.m3u8
+
+#EXTINF:-1 tvg-name="RCN Más" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnmas.webp" group-title="TV - Colombia . Plex",RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RCN Más+" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnmas.webp" group-title="TV - Colombia . Roku",RCN Más+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://canalesenvivotv.web.app/img/canales/lasestrellas.webp" group-title="TV - México",Las Estrellas
+https://cablered.iptvperu.tv:1936/cablered/estrellas-srt_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Todo Novelas" tvg-logo="https://canalesenvivotv.web.app/img/canales/todonovelas.webp" group-title="TV - Ecuador",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-name="Telenovelas" tvg-logo="https://canalesenvivotv.web.app/img/canales/tlnovelas.webp" group-title="TV - México",Telenovelas
+https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/globaltv.webp" group-title="TV - Perú",Global TV
+https://cablered.iptvperu.tv:1936/cablered/global.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ColorVision" tvg-logo="https://canalesenvivotv.web.app/img/canales/ColorVision.webp" group-title="TV - República Dominicana",ColorVision
+https://hls.tvabierta.net/hls/009.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://canalesenvivotv.web.app/img/canales/cgtnespanol.webp" group-title="TV - China",CGTN Español
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Juntos TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/juntoztv.webp" group-title="TV - Perú",Juntos TV
+https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Contacto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/contactotv.webp" group-title="TV - Internacional",Contacto TV
+https://live.obslivestream.com/contactoplaymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Liga 1" tvg-logo="https://canalesenvivotv.web.app/img/canales/liga1.webp" group-title="TV - Internacional",Liga 1
+https://cablered.iptvperu.tv:1936/cablered/Liga1_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Liga 1 MAX" tvg-logo="https://canalesenvivotv.web.app/img/canales/l1max.webp" group-title="TV - Internacional",Liga 1 MAX
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn.webp" group-title="TV - Internacional",ESPN
+https://cablered.iptvperu.tv:1936/cablered/espn_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn2.webp" group-title="TV - Internacional",ESPN 2
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn3.webp" group-title="TV - Internacional",ESPN 3
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn4.webp" group-title="TV - Internacional",ESPN 4
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn5.webp" group-title="TV - Internacional",ESPN 5
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn6.webp" group-title="TV - Internacional",ESPN 6
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn7.webp" group-title="TV - Internacional",ESPN 7
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://canalesenvivotv.web.app/img/canales/lovenature.webp" group-title="TV - Internacional",Love Nature
+https://cablered.iptvperu.tv:1936/cablered/lovenature_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Love The Planet" tvg-logo="https://canalesenvivotv.web.app/img/canales/lovetheplanet.webp" group-title="TV - Internacional",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/480p/index.m3u8
+
+#EXTINF:-1 tvg-name="Nature Time" tvg-logo="https://canalesenvivotv.web.app/img/canales/rakutennaturetime.webp" group-title="TV - Internacional",Nature Time
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://canalesenvivotv.web.app/img/canales/animalplanet.webp" group-title="TV - Internacional",Animal Planet
+https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://canalesenvivotv.web.app/img/canales/natgeo.webp" group-title="TV - Internacional",Nat Geo
+https://cablered.iptvperu.tv:1936/cablered/natgeo_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoverychannel.webp" group-title="TV - Internacional",Discovery Channel
+https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Turbo" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryturbo.webp" group-title="TV - Internacional",Turbo
+https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sciense" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryscience.webp" group-title="TV - Internacional",Sciense
+https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="H-H" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryhh.webp" group-title="TV - Internacional",H-H
+https://cablered.iptvperu.tv:1936/cablered/h&h_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryhgtv.webp" group-title="TV - Internacional",HGTV
+https://cablered.iptvperu.tv:1936/cablered/HGTV_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Id" tvg-logo="https://canalesenvivotv.web.app/img/canales/iddiscovery.webp" group-title="TV - Internacional",Id
+https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Historia" tvg-logo="https://canalesenvivotv.web.app/img/canales/historia.webp" group-title="TV - España",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="https://canalesenvivotv.web.app/img/canales/elgourmet.webp" group-title="TV - Argentina",El Gourmet
+https://cablered.iptvperu.tv:1936/cablered/elgourmet.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://canalesenvivotv.web.app/img/canales/foodnetwork.webp" group-title="TV - Internacional",Food Network
+https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://canalesenvivotv.web.app/img/canales/cinecanal.webp" group-title="TV - Internacional",Cine Canal
+https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/universaltv.webp" group-title="TV - Internacional",Universal TV
+https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="FX" tvg-logo="https://canalesenvivotv.web.app/img/canales/fx.webp" group-title="TV - Internacional",FX
+https://cablered.iptvperu.tv:1936/cablered/fx_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="DHE" tvg-logo="https://canalesenvivotv.web.app/img/canales/dhe.webp" group-title="TV - Internacional",DHE
+https://cablered.iptvperu.tv:1936/cablered/dhe_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://canalesenvivotv.web.app/img/canales/starchannel.webp" group-title="TV - Internacional",Star Channel
+https://cablered.iptvperu.tv:1936/cablered/starchannel_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Cine Romántico" tvg-logo="https://canalesenvivotv.web.app/img/canales/cineromanticotv.webp" group-title="TV - España",Cine Romántico
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://canalesenvivotv.web.app/img/canales/tnt.webp" group-title="TV - Internacional",TNT
+https://cablered.iptvperu.tv:1936/cablered/tnt_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://canalesenvivotv.web.app/img/canales/tntseries.webp" group-title="TV - Internacional",TNT Series
+https://cablered.iptvperu.tv:1936/cablered/tntseries_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="https://canalesenvivotv.web.app/img/canales/tntnovelas.webp" group-title="TV - Internacional",TNT Novelas
+https://cablered.iptvperu.tv:1936/cablered/tntnovelas_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://canalesenvivotv.web.app/img/canales/amc.webp" group-title="TV - Internacional",AMC
+https://cablered.iptvperu.tv:1936/cablered/AMC_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="AMC Series" tvg-logo="https://canalesenvivotv.web.app/img/canales/amcseries.webp" group-title="TV - Internacional",AMC Series
+https://cablered.iptvperu.tv:1936/cablered/amc_series.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="AMC Espanõl" tvg-logo="https://canalesenvivotv.web.app/img/canales/amcespañol.webp" group-title="TV - Internacional",AMC Espanõl
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+
+#EXTINF:-1 tvg-name="Golden Latino" tvg-logo="https://canalesenvivotv.web.app/img/canales/goldenlatino.webp" group-title="TV - Internacional",Golden Latino
+https://cablered.iptvperu.tv:1936/cablered/goldenlat-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Golden Edge" tvg-logo="https://canalesenvivotv.web.app/img/canales/goldenedge.webp" group-title="TV - Internacional",Golden Edge
+https://cablered.iptvperu.tv:1936/cablered/goldenedge-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Cine" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonytv.webp" group-title="TV - Internacional",Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Acción" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyacciontv.webp" group-title="TV - Internacional",Acción
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonycomediatv.webp" group-title="TV - Internacional",Comedia
+https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Series Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyseriescomediatv.webp" group-title="TV - Internacional",Series Comedia
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exitos" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyexitostv.webp" group-title="TV - Internacional",Exitos
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Blacklist" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyblacklisttv.webp" group-title="TV - Internacional",Blacklist
+https://d25v414d53fogv.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Western Bound" tvg-logo="https://canalesenvivotv.web.app/img/canales/tdctv.webp" group-title="TV - Estados Unidos",Western Bound
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16611
+
+#EXTINF:-1 tvg-name="Runtime Cine y Series" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Runtime Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+
+#EXTINF:-1 tvg-name="Series" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Series
+https://run-rss.otteravision.com/run/rss/rss_720.m3u8
+
+#EXTINF:-1 tvg-name="Acción" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Acción
+https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
+
+#EXTINF:-1 tvg-name="Crimen" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+
+#EXTINF:-1 tvg-name="Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+
+#EXTINF:-1 tvg-name="Trash" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Trash
+https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
+
+#EXTINF:-1 tvg-name="Familia" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+
+#EXTINF:-1 tvg-name="Romance" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Romance
+https://stream.ads.ottera.tv/cl/261017db9c8m25h9ac738o8ml0/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 tvg-name="Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimecomedia.webp" group-title="TV - Internacional",Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
+
+#EXTINF:-1 tvg-name="Rebelde" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="TV - Internacional",Rebelde
+https://stream.ads.ottera.tv/cl/261016db9as0edeb6s73fc8hh0/854x480_1355200_2_f.m3u8?i=728_16288
+
+#EXTINF:-1 tvg-name="Doctor House Channel" tvg-logo="https://canalesenvivotv.web.app/img/canales/doctorhousechannel.webp" group-title="TV - Internacional",Doctor House Channel
+https://live20.bozztv.com/giatvplayout7/giatv-211979/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bum Televisión" tvg-logo="https://canalesenvivotv.web.app/img/canales/bumtelevisionconecta2.webp" group-title="TV - Internacional",Bum Televisión
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-name="Az Clic" tvg-logo="https://canalesenvivotv.web.app/img/canales/azclic.webp" group-title="TV - Internacional",Az Clic
+https://cablered.iptvperu.tv:1936/Cablered/azclick_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://canalesenvivotv.web.app/img/canales/dw.webp" group-title="TV - Internacional",DW
+https://cablered.iptvperu.tv:1936/cablered/dw_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="CNN Español" tvg-logo="https://canalesenvivotv.web.app/img/canales/cnnespanol.webp" group-title="TV - Internacional",CNN Español
+https://cablered.iptvperu.tv:1936/cablered/CNN_esp/chunks.m3u8
+
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="https://canalesenvivotv.web.app/img/canales/cnninternacional.webp" group-title="TV - Internacional",CNN Internacional
+https://cablered.iptvperu.tv:1936/cablered/CNN_internacional/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Univision" tvg-logo="https://canalesenvivotv.web.app/img/canales/univision.webp" group-title="TV - Internacional",Univision
+https://cablered.iptvperu.tv:1936/cablered/univision-srt_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Az Internacional" tvg-logo="https://canalesenvivotv.web.app/img/canales/azinternacional.webp" group-title="TV - México",Az Internacional
+https://cablered.iptvperu.tv:1936/Cablered/azinternacional_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/gentv.webp" group-title="TV - Paraguay",Gen TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Xtrema TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/xtremetv.webp" group-title="TV - Argentina",Xtrema TV
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Genios TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/geniostv.webp" group-title="TV - Internacional",Genios TV
+https://sc3.wasidata.com/Genios2_1902/video.m3u8
+
+#EXTINF:-1 tvg-name="Space" tvg-logo="https://canalesenvivotv.web.app/img/canales/space.webp" group-title="TV - Argentina",Space
+https://cablered.iptvperu.tv:1936/cablered/space_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Amazonia TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amazoniatv.webp" group-title="TV - Perú",Amazonia TV
+https://live.teve.pro/live/altramediaperu/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Drama" tvg-logo="https://canalesenvivotv.web.app/img/canales/bbcdrama.webp" group-title="TV - Internacional",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ciudad Mágica" tvg-logo="https://canalesenvivotv.web.app/img/canales/ciudadmagicatv.webp" group-title="TV - Argentina",Ciudad Mágica
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Super Canal" tvg-logo="https://canalesenvivotv.web.app/img/canales/supercanal.webp" group-title="TV - Perú",Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+
+#EXTINF:-1 tvg-name="Rumba TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/radiorumbatv.webp" group-title="TV - Internacional",Rumba TV
+https://tv.sistemasandinos.org/rumbatv/video.m3u8
+
+#EXTINF:-1 tvg-name="Telecentro TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/telecentrotv.webp" group-title="TV - Internacional",Telecentro TV
+https://cablered.iptvperu.tv:1936/cablered/telecentro.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TLS Teleselva" tvg-logo="https://canalesenvivotv.web.app/img/canales/teleselva.webp" group-title="TV - Perú",TLS Teleselva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+#EXTINF:-1 tvg-name="RSelva Televisión" tvg-logo="https://canalesenvivotv.web.app/img/canales/rselvatv.webp" group-title="TV - Perú",RSelva Televisión
+https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-name="DeltaTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/deltatv.webp" group-title="TV - Perú",DeltaTV
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+
+#EXTINF:-1 tvg-name="Nativa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/nativatv.webp" group-title="TV - Internacional",Nativa TV
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="RT Televisión" tvg-logo="https://canalesenvivotv.web.app/img/canales/rtespanol.webp" group-title="TV - Venezuela",RT Televisión
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tevesur" tvg-logo="https://canalesenvivotv.web.app/img/canales/tevesurr.webp" group-title="TV - Peru . Cusco",Tevesur
+https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wedo Amor" tvg-logo="https://canalesenvivotv.web.app/img/canales/wedoamor.webp" group-title="TV - Internacional",Wedo Amor
+https://amg00735-amg00735c15-plex-us-4211.playouts.now.amagi.tv/480p-en-webvtt/index.m3u8
+
+#EXTINF:-1 tvg-name="Viva TV Yurimaguas" tvg-logo="https://canalesenvivotv.web.app/img/canales/vivatvyurimaguas.webp" group-title="TV - Perú",Viva TV Yurimaguas
+https://live.obslivestream.com/vivatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Yurimaguas TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/yurimaguastv.webp" group-title="TV - Internacional",Yurimaguas TV
+https://live.obslivestream.com/yurimaguastelevision/index.m3u8
+
+#EXTINF:-1 tvg-name="Arpegio TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/arpegiotv.webp" group-title="TV - Perú",Arpegio TV
+https://vdo.oyotunserver.com/arpegio/video.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://canalesenvivotv.web.app/img/canales/disneychannelcenter.webp" group-title="TV - Argentina",Disney Channel
+https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://canalesenvivotv.web.app/img/canales/disneyjr.webp" group-title="TV - Internacional",Disney Junior
+https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoverykids.webp" group-title="TV - Internacional",Discovery Kids
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Los Simpson" tvg-logo="https://canalesenvivotv.web.app/img/canales/losshimpons.webp" group-title="TV - Internacional",Los Simpson
+https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/chunks.m3u8?lb_backend_hint=6
+
+#EXTINF:-1 tvg-name="Adult Swing" tvg-logo="https://canalesenvivotv.web.app/img/canales/adultswing.webp" group-title="TV - Internacional",Adult Swing
+https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MAX Anime" tvg-logo="https://canalesenvivotv.web.app/img/canales/maxanime.webp" group-title="TV - Venezuela",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Naruto Chanel" tvg-logo="https://canalesenvivotv.web.app/img/canales/narutochannel.webp" group-title="TV - Internacional",Naruto Chanel
+https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
+
+#EXTINF:-1 tvg-name="EnerGeek" tvg-logo="https://canalesenvivotv.web.app/img/canales/energeektv.webp" group-title="TV - Internacional",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
+
+#EXTINF:-1 tvg-name="Chavo del 8" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotv.webp" group-title="TV - Internacional",Chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Chavo del 8" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotvV.webp" group-title="TV - Internacional",El Chavo del 8
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chespirito" tvg-logo="https://canalesenvivotv.web.app/img/canales/chespiritotv.webp" group-title="TV - Internacional",Chespirito
+https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dragon Ball" tvg-logo="https://canalesenvivotv.web.app/img/canales/dragonball.webp" group-title="TV - Internacional",Dragon Ball
+https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Peliculas" tvg-logo="https://canalesenvivotv.web.app/img/canales/gokupelis.webp" group-title="TV - Internacional",Peliculas
+https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://canalesenvivotv.web.app/img/canales/dreamworks.webp" group-title="TV - Perú",Dreamworks
+https://cablered.iptvperu.tv:1936/cablered/dreamworks.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dodo TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/dodotv.webp" group-title="TV - Internacional",Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Bitme" tvg-logo="https://canalesenvivotv.web.app/img/canales/bitme.webp" group-title="TV - Internacional",Bitme
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-logo="https://canalesenvivotv.web.app/img/canales/tooncast.webp" group-title="TV - Internacional",Tooncast
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chiki Toonz" tvg-logo="https://canalesenvivotv.web.app/img/canales/chikitoonz.webp" group-title="TV - Internacional",Chiki Toonz
+https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Peques TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/pequestv.webp" group-title="TV - Perú",Peques TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg7.tv360.bitel.com.pe%2Fbitel%2Fpequestv%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://canalesenvivotv.web.app/img/canales/cartoonnetwork.webp" group-title="TV - Internacional",Cartoon Network
+https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cuentos de la Cripta" tvg-logo="https://canalesenvivotv.web.app/img/canales/cuentosdelacripta.webp" group-title="TV - Perú",Cuentos de la Cripta
+https://live20.bozztv.com/giatvplayout7/giatv-210858/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Extremadura TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/ExtremaduraTV.webp" group-title="TV - Perú",Extremadura TV
+https://cdn-canalextremadura.watchity.net/fast2/master.m3u8
+
+#EXTINF:-1 tvg-name="Aurora Media Films" tvg-logo="https://canalesenvivotv.web.app/img/canales/auroramediafilms.webp" group-title="TV - Guatemala",Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-name="NorSelva RTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/norselvartv.webp" group-title="TV - Perú",NorSelva RTV
+https://live.obslivestream.com/norselvatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Telelima" tvg-logo="https://canalesenvivotv.web.app/img/canales/telelima.webp" group-title="TV - Perú",Telelima
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bombi" tvg-logo="https://canalesenvivotv.web.app/img/canales/bombitvv.webp" group-title="TV - Chile",Bombi
+https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w2067366756.m3u8
+
+#EXTINF:-1 tvg-name="Unicentro" tvg-logo="https://canalesenvivotv.web.app/img/canales/nexxortv.webp" group-title="TV - Internacional",Unicentro
+https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Neo TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/neotv.webp" group-title="TV - Argentina",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-name="Lider TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/lidertv.webp" group-title="TV - Perú",Lider TV
+https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Vive Kanal D Drama" tvg-logo="https://canalesenvivotv.web.app/img/canales/vivekanalddramas.webp" group-title="TV - Internacional",Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D Drama" tvg-logo="https://canalesenvivotv.web.app/img/canales/kanalddramas.webp" group-title="TV - Internacional",Kanal D Drama
+https://cablered.iptvperu.tv:1936/cablered/kanald_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Corazón RTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/corazonrtv.webp" group-title="TV - Internacional",Corazón RTV
+https://ia.cpustream.com/corazonrtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Az Corazon" tvg-logo="https://canalesenvivotv.web.app/img/canales/azcorazon.webp" group-title="TV - Internacional",Az Corazon
+https://cablered.iptvperu.tv:1936/Cablered/azcorazon_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Tele" tvg-logo="https://canalesenvivotv.web.app/img/canales/latele.webp" group-title="TV - Internacional",La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Corazón" tvg-logo="https://canalesenvivotv.web.app/img/canales/corazontv.webp" group-title="TV - Mexico",Corazón
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://canalesenvivotv.web.app/img/canales/canal8.webp" group-title="TV - Perú",Canal 8
+https://live.obslivestream.com/canal8/index.m3u8
+
+#EXTINF:-1 tvg-name="Catacaos" tvg-logo="https://canalesenvivotv.web.app/img/canales/catacaos.webp" group-title="TV - Perú",Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
+
+#EXTINF:-1 tvg-name="Antena Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/antenasur.webp" group-title="TV - Perú . Juliaca",Antena Sur
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-name="Wayra TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/wayratv.webp" group-title="TV - Perú",Wayra TV
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sion TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/siontv.webp" group-title="TV - Argentina",Sion TV
+https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
+
+#EXTINF:-1 tvg-name="Hispanoamerica TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/hispanoamericatv.webp" group-title="TV - Internacional",Hispanoamerica TV
+https://cablered.iptvperu.tv:1936/cablered/hispanoamerica.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TVE Star" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvestar.webp" group-title="TV - España",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+
+#EXTINF:-1 tvg-name="TV + Chincha" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvmaschincha.webp" group-title="TV - Perú",TV + Chincha
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Día TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/aldiatv.webp" group-title="TV - Internacional",Al Día TV
+https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TV Florencia" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvflorencia.webp" group-title="TV - Guatemala",TV Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1 tvg-name="Amazónica TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amazonicatvv.webp" group-title="TV - Perú",Amazónica TV
+https://live.obslivestream.com/amazonicatv/index.m3u8
+
+#EXTINF:-1 tvg-name="LTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/ltvtv.webp" group-title="TV - Internacional",LTV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w658193714.m3u8
+
+#EXTINF:-1 tvg-name="Loreto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/loretotv.webp" group-title="TV - Ecuador",Loreto TV
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
+#EXTINF:-1 tvg-name="Zuraca TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/zuracatv.webp" group-title="TV - Bolivia",Zuraca TV
+https://tv3.bitstreaming.net:3680/zuracatvlive/zuracatvlive.m3u8
+
+#EXTINF:-1 tvg-name="Doble AA" tvg-logo="https://canalesenvivotv.web.app/img/canales/dobleaatv.webp" group-title="TV - Internacional",Doble AA
+https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Uranio TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/uraniotv.webp" group-title="TV - Perú",Uranio TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+
+#EXTINF:-1 tvg-name="Planea TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/planetajaentv.webp" group-title="TV - Perú . Jaen",Planea TV
+https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
+
+#EXTINF:-1 tvg-name="USA" tvg-logo="https://canalesenvivotv.web.app/img/canales/usa.webp" group-title="TV - Internacional",USA
+https://cablered.iptvperu.tv:1936/cablered/usa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Cadena TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/cadenatv.webp" group-title="TV - Perú",Cadena TV
+https://cablered.iptvperu.tv:1936/cablered/SRT_cadena/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Doble C Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/doblectelevision.webp" group-title="TV - Perú",Doble C Television
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TVS Peliculas" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvspeliculas.webp" group-title="TV - Internacional",TVS Peliculas
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1474821475.m3u8
+
+#EXTINF:-1 tvg-name="Charapa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/charapatv.webp" group-title="TV - Perú",Charapa TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg10.tv360.bitel.com.pe%2Fbitel%2FcharapatvSRT%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="TeleSUR Costa Rica" tvg-logo="https://canalesenvivotv.web.app/img/canales/telesurcostarica.webp" group-title="TV - Internacional",TeleSUR Costa Rica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-name="Canal de MacroNorte" tvg-logo="https://canalesenvivotv.web.app/img/canales/canaldemacronorte.webp" group-title="TV - Internacional",Canal de MacroNorte
+https://vs20.live.opencaster.com/macronorte_60f657d9/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 21 Huancayo" tvg-logo="https://canalesenvivotv.web.app/img/canales/canal21huancayo.webp" group-title="TV - Internacional",Canal 21 Huancayo
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Quantica TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/quanticatv.webp" group-title="TV - Argentina",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-name="FAP TV HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/faptv.webp" group-title="TV - Bolivia",FAP TV HD
+https://edge.enhdtv.com/faptv/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Libertad" tvg-logo="https://canalesenvivotv.web.app/img/canales/rtvlibertad.webp" group-title="TV - Perú",RTV Libertad
+https://live.obslivestream.com/rtvlibertad/index.m3u8
+
+#EXTINF:-1 tvg-name="Atmosfera" tvg-logo="https://canalesenvivotv.web.app/img/canales/atmosferatv.webp" group-title="TV - Perú",Atmosfera
+https://live.obslivestream.com/atmosferartmp/index.m3u8
+
+#EXTINF:-1 tvg-name="Yurision TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/yurivisiontv.webp" group-title="TV - Perú",Yurision TV
+https://live.obslivestream.com/yurivision/index.m3u8
+
+#EXTINF:-1 tvg-name="FMH Movies" tvg-logo="https://canalesenvivotv.web.app/img/canales/fmhmovies.webp" group-title="TV - Internacional",FMH Movies
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://canalesenvivotv.web.app/img/canales/tlc.webp" group-title="TV - Internacional",TLC
+https://cablered.iptvperu.tv:1936/cablered/tlc_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Primavera 15" tvg-logo="https://canalesenvivotv.web.app/img/canales/primavera15.webp" group-title="TV - Internacional",Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+
+#EXTINF:-1 tvg-name="WOW Movies" tvg-logo="https://canalesenvivotv.web.app/img/canales/wowmovies.webp" group-title="TV - Internacional",WOW Movies
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Sumaq TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/sumaqtv.webp" group-title="TV - Internacional",Sumaq TV
+https://live20.bozztv.com/akamaissh101/ssh101/makins/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Telesur" tvg-logo="https://canalesenvivotv.web.app/img/canales/telesur.webp" group-title="TV - Internacional",Telesur
+https://cablered.iptvperu.tv:1936/cablered/telesur_new/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Unitel" tvg-logo="https://canalesenvivotv.web.app/img/canales/unitel.webp" group-title="TV - Perú",Unitel
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="LHA TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/lhatv.webp" group-title="TV - Internacional",LHA TV
+https://cablered.iptvperu.tv:1936/cablered/lhatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Qollasuyo TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/qollasuyo.webp" group-title="TV - Perú",Qollasuyo TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Fqollasuyotv%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Zeleve TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/zelevetvv.webp" group-title="TV - Internacional",Zeleve TV
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC Television SRT" tvg-logo="https://canalesenvivotv.web.app/img/canales/abtelevision.webp" group-title="TV - Perú",ABC Television SRT
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg8.tv360.bitel.com.pe%2Fbitel%2FabctelevisionSRT%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-name="Sol TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/soltv.webp" group-title="TV - Guatemala",Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-name="Canal 8 C&C Producciones" tvg-logo="https://canalesenvivotv.web.app/img/canales/canal8ccproducciones.webp" group-title="TV - Paraguay",Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:-1 tvg-name="Delta TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/deltatv.webp" group-title="TV - Bolivia",Delta TV
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="CR Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/crtelevision.webp" group-title="TV - Perú",CR Television
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-name="Suceso TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/sucesotv.webp" group-title="TV - Paraguay",Suceso TV
+https://edge.enhdtv.com/8060/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="MiTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/mitv.webp" group-title="TV - Paraguay",MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w927917138.m3u8
+
+#EXTINF:-1 tvg-name="Tele Mocoa Canal 10" tvg-logo="https://canalesenvivotv.web.app/img/canales/telemocoacanal10.webp" group-title="TV - Colombia",Tele Mocoa Canal 10
+https://live.amelbatv.co:81/telemocoalive/index.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten TV Action" tvg-logo="https://canalesenvivotv.web.app/img/canales/rakutentvactionmoviesspain.webp" group-title="TV - Internacional",Rakuten TV Action
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten TV Comedy" tvg-logo="https://canalesenvivotv.web.app/img/canales/rakutentvactionmoviesspain.webp" group-title="TV - Internacional",Rakuten TV Comedy
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+
+#EXTINF:-1 tvg-name="Caracol Internacional" tvg-logo="https://canalesenvivotv.web.app/img/canales/caracolinternacional.webp" group-title="TV - Colombia",Caracol Internacional
+https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://canalesenvivotv.web.app/img/canales/france24.webp" group-title="TV - Internacional",France 24
+https://a-cdn.klowdtv.com/live2/france24sp_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="RTVXplorer" tvg-logo="https://canalesenvivotv.web.app/img/canales/rtvxplorer.webp" group-title="TV - Perú",RTVXplorer
+https://live.obslivestream.com/rtvxplorer/index.m3u8
+
+#EXTINF:-1 tvg-name="Trivu" tvg-logo="https://canalesenvivotv.web.app/img/canales/tributv.webp" group-title="TV - Perú",Trivu
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Perú Go TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/perugotv.webp" group-title="TV - Internacional",Perú Go TV
+https://live.obslivestream.com/perugotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Tele Brunca" tvg-logo="https://canalesenvivotv.web.app/img/canales/telebrunca.webp" group-title="TV - Internacional",Tele Brunca
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w413125513.m3u8
+
+#EXTINF:-1 tvg-name="Imperial TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/imperialtv.webp" group-title="TV - Perú",Imperial TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2FimperialSRT%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Austral TV Musica" tvg-logo="https://canalesenvivotv.web.app/img/canales/australtvmusic.webp" group-title="TV - Internacional",Austral TV Musica
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Impacto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/impactotelevisiontv.webp" group-title="TV - Internacional",Impacto TV
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+#EXTINF:-1 tvg-name="Cultura 24 TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/culturatv.webp" group-title="TV - Perú",Cultura 24 TV
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-name="Autentica Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/auntenticatelevision.webp" group-title="TV - Perú",Autentica Television
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-name="VR Canal 21 Nasca" tvg-logo="https://canalesenvivotv.web.app/img/canales/vrcanal21nzk.webp" group-title="TV - Perú . Nazca",VR Canal 21 Nasca
+https://eu1.servers10.com:8081/8258/index.m3u8
+
+#EXTINF:-1 tvg-name="Visión Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/visionsur.webp" group-title="TV - Perú",Visión Sur
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/live/Ia6tBZUR_2yptRX0C/chunks.m3u8
+
+#EXTINF:-1 tvg-name="CNC" tvg-logo="https://canalesenvivotv.web.app/img/canales/cnctvdigital.webp" group-title="TV - Internacional",CNC
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+
+#EXTINF:-1 tvg-name="Television Tarapoto" tvg-logo="https://canalesenvivotv.web.app/img/canales/televisiontarapoto.webp" group-title="TV - Internacional",Television Tarapoto
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nativa TV Satipo" tvg-logo="https://canalesenvivotv.web.app/img/canales/nativatvsatipo.webp" group-title="TV - Internacional",Nativa TV Satipo
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+#EXTINF:-1 tvg-name="Telecolor Yurimaguas" tvg-logo="https://canalesenvivotv.web.app/img/canales/tevecoloryuri.webp" group-title="TV - Internacional",Telecolor Yurimaguas
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-name="Qosqo Times" tvg-logo="https://canalesenvivotv.web.app/img/canales/qosqotimes.webp" group-title="TV - Perú",Qosqo Times
+https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nacional Tv Peru" tvg-logo="https://canalesenvivotv.web.app/img/canales/nacionaltv.webp" group-title="TV - Internacional",Nacional Tv Peru
+https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
+
+#EXTINF:-1 tvg-name="Milenial TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/milenialtv.webp" group-title="TV - Perú",Milenial TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fwww.milenial.news%2Fsalida%2Fmilenial.m3u8
+
+#EXTINF:-1 tvg-name="Piura TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/piuratv.webp" group-title="TV - Perú . Piura",Piura TV
+https://live.obslivestream.com/piuratv/index.m3u8
+
+#EXTINF:-1 tvg-name="Amazonica TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amazonicaTV.webp" group-title="TV - Perú",Amazonica TV
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+
+#EXTINF:-1 tvg-name="Solar Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/solartelevision.webp" group-title="TV - Internacional",Solar Television
+https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Mittos TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/mittostv.webp" group-title="TV - Internacional",Mittos TV
+https://live20.bozztv.com/akamaissh101/ssh101/tv777lv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Andes Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/andestv.webp" group-title="TV - Perú . Sicuani",Andes Television
+https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FuegoTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/fuegotv.webp" group-title="TV - Internacional",FuegoTV
+https://ia.cpustream.com/fuegotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Multivision Federal" tvg-logo="https://canalesenvivotv.web.app/img/canales/multivisionfederal.webp" group-title="TV - Argentina",Multivision Federal
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-name="Tele 13" tvg-logo="https://canalesenvivotv.web.app/img/canales/tele13.webp" group-title="TV - Internacional",Tele 13
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_1250.m3u8
+
+#EXTINF:-1 tvg-name="Mas TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/mastvv.webp" group-title="TV - Guatemala",Mas TV
+https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+
+#EXTINF:-1 tvg-name="Canal de Canal_13_TL_Com" tvg-logo="https://canalesenvivotv.web.app/img/canales/canaldecanal13tlcom.webp" group-title="TV - Internacional",Canal de Canal_13_TL_Com
+https://vs20.live.opencaster.com/canal13tlcom_bef56183/index.m3u8
+
+#EXTINF:-1 tvg-name="Cosmos TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/cosmostv.webp" group-title="TV - Paraguay",Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+
+#EXTINF:-1 tvg-name="Vision Latina" tvg-logo="https://canalesenvivotv.web.app/img/canales/visionlatina.webp" group-title="TV - Panamá",Vision Latina
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/source/index.m3u8
+
+#EXTINF:-1 tvg-name="AsiriTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/asiritv.webp" group-title="TV - Internacional",AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-name="Multivision Canal 3" tvg-logo="https://canalesenvivotv.web.app/img/canales/multivisiontv.webp" group-title="TV - Guatemala",Multivision Canal 3
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+
+#EXTINF:-1 tvg-name="TV Migrante" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvmigrante.webp" group-title="TV - México",TV Migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Telesol" tvg-logo="https://canalesenvivotv.web.app/img/canales/telesol.webp" group-title="TV - Argentina",Telesol
+https://cdn1.tvlin.net/open/telesol/chunks.m3u8
+
+#EXTINF:-1 tvg-name="VTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/vtvtv.webp" group-title="TV - Argentina",VTV
+https://media.cdnvid.com/public/uovlwqzikeyf.m3u8
+
+#EXTINF:-1 tvg-name="Amitel TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amiteltv.webp" group-title="TV - Argentina",Amitel TV
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="FTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/ftvtv.webp" group-title="TV - Bolivia",FTV
+https://master.tucableip.com/ftvhd/index.m3u8
+
+#EXTINF:-1 tvg-name="TV OFF" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvoff.webp" group-title="TV - Bolivia",TV OFF
+https://edge.enhdtv.com/tvoff/index.m3u8
+
+#EXTINF:-1 tvg-name="Entertainment Family" tvg-logo="https://canalesenvivotv.web.app/img/canales/entertainmentfamily.webp" group-title="TV - Internacional",Entertainment Family
+https://cablered.iptvperu.tv:1936/cablered/tvcariocainternacional.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-name="West" tvg-logo="https://canalesenvivotv.web.app/img/canales/westtv.webp" group-title="TV - Internacional",West
+https://cablered.iptvperu.tv:1936/cablered/west/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TCM" tvg-logo="https://canalesenvivotv.web.app/img/canales/tcm.webp" group-title="TV - Perú",TCM
+https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Az Cinema" tvg-logo="https://canalesenvivotv.web.app/img/canales/azcinema.webp" group-title="TV - Internacional",Az Cinema
+https://cablered.iptvperu.tv:1936/Cablered/azcinema_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="De Pelicula" tvg-logo="https://canalesenvivotv.web.app/img/canales/depelicula.webp" group-title="TV - Mexico",De Pelicula
+https://cablered.iptvperu.tv:1936/cablered/dpelicula/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/retrotv.webp" group-title="TV - Internacional",Retro TV
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TVS Retro" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvsretrotv.webp" group-title="TV - Guatemala",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-name="Telecreativa" tvg-logo="https://canalesenvivotv.web.app/img/canales/telecreativatv.webp" group-title="TV - Argentina",Telecreativa
+https://panel.host-live.com:19360/8012/8012.m3u8
+
+#EXTINF:-1 tvg-name="Emocion TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/emociontv.webp" group-title="TV - Chile",Emocion TV
+https://v1.tustreaming.cl/emociontv/index.m3u8
+
+#EXTINF:-1 tvg-name="Zylo Cine Friki ESP" tvg-logo="https://canalesenvivotv.web.app/img/canales/zylocinefriki.webp" group-title="TV - Internacional",Zylo Cine Friki ESP
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+
+#EXTINF:-1 tvg-name="M Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/mtelevision.webp" group-title="TV - Internacional",M Television
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg10.tv360.bitel.com.pe%2Fbitel%2Fanqaratv%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Casma TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/casmatv.webp" group-title="TV - Internacional",Casma TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg7.tv360.bitel.com.pe%2Fbitel%2FcasmatvSRT-TRA%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Inka Vision" tvg-logo="https://canalesenvivotv.web.app/img/canales/inkavision.webp" group-title="TV - Internacional",Inka Vision
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Finkavision%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-name="Barbe TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/baebetv.webp" group-title="TV - Guatemala",Barbe TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-name="Via Alto Mayo TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/viaaltomayo.webp" group-title="TV - Perú",Via Alto Mayo TV
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
+#EXTINF:-1 tvg-name="Red Digital TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/reddigitaltv.webp" group-title="TV - Perú",Red Digital TV
+https://live.obslivestream.com/reddigital/index.m3u8
+
+#EXTINF:-1 tvg-name="Almería 24h TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/almeriatv.webp" group-title="TV - Internacional",Almería 24h TV
+https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8
+
+#EXTINF:-1 tvg-name="Sal TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/SalTV.webp" group-title="TV - Andalucía",Sal TV
+https://nimble.tuyapro.es/saltv/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Popular TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/PopularTV.webp" group-title="TV - Cantabria",Popular TV
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+
+#EXTINF:-1 tvg-name="La 1 Catalunya" tvg-logo="https://canalesenvivotv.web.app/img/canales/La1Catalunya.webp" group-title="TV - Cataluña",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+
+#EXTINF:-1 tvg-name="33TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/33TV.webp" group-title="TV - Valenciana",33TV
+https://limited43.todostreaming.es/live/simbana-livestream.m3u8
+
+#EXTINF:-1 tvg-name="Star TVE" tvg-logo="https://canalesenvivotv.web.app/img/canales/StarTVE.webp" group-title="TV - Europa",Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-name="TV Canaria Net" tvg-logo="https://canalesenvivotv.web.app/img/canales/TVCanariaNet.webp" group-title="TV - Europa",TV Canaria Net
+https://d2q93scm3qt8zp.cloudfront.net/index-events.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Clic" tvg-logo="https://canalesenvivotv.web.app/img/canales/AztecaClic.webp" group-title="TV - Internacional",Azteca Clic
+https://azt-cl.otteravision.com/azt/cl/cl.m3u8
+
+#EXTINF:-1 tvg-name="Estrella TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/EstrellaTV.webp" group-title="TV - Mexico",Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antena TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/AntenaTV.webp" group-title="TV - Mexico",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Internacional" tvg-logo="https://canalesenvivotv.web.app/img/canales/AztecaInternacional.webp" group-title="TV - Mexico",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-name="Canal 11" tvg-logo="https://canalesenvivotv.web.app/img/canales/canalonce.webp" group-title="TV - Internacional",Canal 11
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 2 Alpavision" tvg-logo="https://canalesenvivotv.web.app/img/canales/canal2alpavisiontv.webp" group-title="TV - Internacional",Canal 2 Alpavision
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oasis TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/oasistvtv.webp" group-title="TV - Internacional",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 2 Quellon" tvg-logo="https://canalesenvivotv.web.app/img/canales/canal2quellontv.webp" group-title="TV - Internacional",Canal 2 Quellon
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 2 San Antonio" tvg-logo="https://canalesenvivotv.web.app/img/canales/canal2sanantoniotv.webp" group-title="TV - Internacional",Canal 2 San Antonio
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pucon TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/pucontvtv.webp" group-title="TV - Internacional",Pucon TV
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Activa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/activatvtv.webp" group-title="TV - Internacional",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Cordoba TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/cordobatvtv.webp" group-title="TV - Internacional",Cordoba TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-name="Univers TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/universtv.webp" group-title="TV - Internacional",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lenca TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/lencatv.webp" group-title="TV - Internacional",Lenca TV
+https://lencatelevision.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Portal Foxmix" tvg-logo="https://canalesenvivotv.web.app/img/canales/portalfoxmixtv.webp" group-title="TV - Internacional",Portal Foxmix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Conecta2 TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/conecta2.webp" group-title="TV - Perú",Conecta2 TV
+https://cablered.iptvperu.tv:1936/cablered/Conecta2_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="NSTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/nstv.webp" group-title="TV - Colombia",NSTV
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+
+#EXTINF:-1 tvg-name="RTV Total" tvg-logo="https://canalesenvivotv.web.app/img/canales/rtvtotal.webp" group-title="TV - Perú",RTV Total
+https://live.obslivestream.com/rtvtotal/index.m3u8
+
+#EXTINF:-1 tvg-name="Tacala TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/tacalatv.webp" group-title="TV - Perú",Tacala TV
+https://live.obslivestream.com/tacalatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Record TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvrecord.webp" group-title="TV - Perú",Record TV
+https://live.obslivestream.com/recordtv/index.m3u8
+
+#EXTINF:-1 tvg-name="Coral TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/coraltv.webp" group-title="TV - Bolivia",Coral TV
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-name="Puruwa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/puruwatv.webp" group-title="TV - Ecuador",Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w1969498153.m3u8
+
+#EXTINF:-1 tvg-name="BHTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/bhtv.webp" group-title="TV - Internacional",BHTV
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sureña TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/canaldesurenatv.webp" group-title="TV - Internacional",Sureña TV
+https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
+
+#EXTINF:-1 tvg-name="Tele San Jacinto" tvg-logo="https://canalesenvivotv.web.app/img/canales/canaldesjradio.webp" group-title="TV - Internacional",Tele San Jacinto
+https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8
+
+#EXTINF:-1 tvg-name="LeleZeta" tvg-logo="https://canalesenvivotv.web.app/img/canales/canaldetelezeta.webp" group-title="TV - Internacional",LeleZeta
+https://vs20.live.opencaster.com/telezeta_8f468d8f/index.m3u8
+
+#EXTINF:-1 tvg-name="POP World TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/popworldtv.webp" group-title="TV - España",POP World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-name="Bonvibe" tvg-logo="https://canalesenvivotv.web.app/img/canales/bonvibetvaruba.webp" group-title="TV - Aruba",Bonvibe
+https://vs20.live.opencaster.com/bonvibetvaruba_a499cb85/index.m3u8
+
+#EXTINF:-1 tvg-name="Sula TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/sulatv.webp" group-title="TV - Honduras",Sula TV
+https://vs20.live.opencaster.com/multicabletv1_18dcd0b9/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio Onda" tvg-logo="https://canalesenvivotv.web.app/img/canales/canalradioonda.webp" group-title="TV - Internacional",Radio Onda
+https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Kpop TV Play" tvg-logo="https://canalesenvivotv.web.app/img/canales/kpoptvplay.webp" group-title="TV - Internacional",Kpop TV Play
+https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kpop Mix" tvg-logo="https://canalesenvivotv.web.app/img/canales/kpoptvmix.webp" group-title="TV - Internacional",Kpop Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+
+#EXTINF:-1 tvg-name="Oasis TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/oasistv.webp" group-title="TV - Paraguay",Oasis TV
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+
+#EXTINF:-1 tvg-name="TaltalTV.Net City Pop" tvg-logo="https://canalesenvivotv.web.app/img/canales/taltaltv.webp" group-title="TV - Internacional",TaltalTV.Net City Pop
+https://live20.bozztv.com/giatvplayout7/giatv-210394/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="https://canalesenvivotv.web.app/img/canales/radiomaster.webp" group-title="TV - Internacional",Master
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1 tvg-name="Karibeña TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/karibenatv.webp" group-title="TV - Internacional",Karibeña TV
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Tropical TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/radiotropical.webp" group-title="TV - Internacional",Tropical TV
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-name="Via TV Tarapoto" tvg-logo="https://canalesenvivotv.web.app/img/canales/viatv.webp" group-title="TV - Peru",Via TV Tarapoto
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chincha TV Musica" tvg-logo="https://canalesenvivotv.web.app/img/canales/chinchatv.webp" group-title="TV - Internacional",Chincha TV Musica
+https://s3.tvdatta.com:3908/stream/play.m3u8
+
+#EXTINF:-1 tvg-name="Urban TV Musica" tvg-logo="https://canalesenvivotv.web.app/img/canales/urbantvmusic.webp" group-title="TV - Internacional",Urban TV Musica
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/4.m3u8
+
+#EXTINF:-1 tvg-name="Agro TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/agrotv.webp" group-title="TV - Perú",Agro TV
+https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Chalaca" tvg-logo="https://canalesenvivotv.web.app/img/canales/radiochalaca.webp" group-title="TV - Internacional",Chalaca
+https://servilive.com:3414/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Mega TV Jaen" tvg-logo="https://canalesenvivotv.web.app/img/canales/megatvjaen.webp" group-title="TV - Perú",Mega TV Jaen
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Fmegatv%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://canalesenvivotv.web.app/img/canales/megatv.webp" group-title="TV - Perú",Mega
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+#EXTINF:-1 tvg-name="Altura TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/alturatv.webp" group-title="TV - Internacional",Altura TV
+https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
+
+#EXTINF:-1 tvg-name="TV Peruanisima" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvperuanisima.webp" group-title="TV - Internacional",TV Peruanisima
+https://k20.usastreams.com:8081/tvperuanisima/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Top Latino" tvg-logo="https://canalesenvivotv.web.app/img/canales/toplatino.webp" group-title="TV - Internacional",Top Latino
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Viva Latina" tvg-logo="https://canalesenvivotv.web.app/img/canales/tracelatina.webp" group-title="TV - Internacional",Viva Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/ts-us-e2-n1/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573d167a6c638984cb3767cef24182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbb25816d83ff3e7011a91264cfa83439fd501e983d25c83178471f11c9ec6f2dd8118d0e4d159966f4ad69939581fa9a53bf7f958a4cfe81153fe420936d0d17bc1e9937d3393534b1cd9f2cead6cfc12b4e24d29a1a7da72fc638d3d8b29da610420dec1dfd8f36f6043c0e8526c26ea85f2c8935f4240173e7f48aa3bdce0a2652e1b144feb826154b1f0ce068dc014d99a2a88b553d059aa9e689487bb8fe3b1c21fd2758a8fc391334641741742a869e2cb3d957986389fc71d77081604b5cc018dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d511b2e862a5e98ba5353ab3dfd54bb03abce24481a070dc07566e0bbdf62348560c2c809c012304399215aa83b0a21d6f27e3f8caf2c529482431055d018ea2aa30ac87ce2d1201d211414471031c820bc663bd541ae04f29fa0e196f48329518ebb19f3f6e616bbbf93ba809/43/848x480_1249600/index.m3u8
+
+#EXTINF:-1 tvg-name="Miel TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/mieltv.webp" group-title="TV - Perú",Miel TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2FmieltvSRT%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Cable Mix" tvg-logo="https://canalesenvivotv.web.app/img/canales/cablemix.webp" group-title="TV - Internacional",Cable Mix
+https://cablered.iptvperu.tv:1936/cablered/cable-mix/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telehit Latino" tvg-logo="https://canalesenvivotv.web.app/img/canales/telehitlatino.webp" group-title="TV - Internacional",Telehit Latino
+https://cablered.iptvperu.tv:1936/cablered/telehit-srt_new/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Mix TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/mixtv.webp" group-title="TV - Internacional",Mix TV
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-name="RumbaMix TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/rumbamixtv.webp" group-title="TV - Internacional",RumbaMix TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2FmixtvSRT%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="BNB Digital" tvg-logo="https://canalesenvivotv.web.app/img/canales/bnbdigital.webp" group-title="TV - Perú",BNB Digital
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg8.tv360.bitel.com.pe%2Fbitel%2FbnbSRT%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="Media TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/mediatv.webp" group-title="TV - Perú",Media TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Fmediatv%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="36 TV Huacho" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvhuacho.webp" group-title="TV - Perú",36 TV Huacho
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg10.tv360.bitel.com.pe%2Fbitel%2F36tvSRT%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-name="RTP TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/rtptv.webp" group-title="TV - perú",RTP TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg7.tv360.bitel.com.pe%2Fbitel%2Frtp%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="TV Norte" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvnorte.webp" group-title="TV - Perú . Chiclayo",TV Norte
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Ftvnorte%2Fplaylist.m3u8
+
+#EXTINF:-1 tvg-name="25 TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/25tv.webp" group-title="TV - Perú",25 TV
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg10.tv360.bitel.com.pe%2Fbitel%2Fcanal25ayacucho%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-name="TV Solidaria" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvsolidaria.webp" group-title="TV - Argentina",TV Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-name="Anzoategui TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/anzoateguitv.webp" group-title="TV - Venezuela",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/chunklist_w271201274.m3u8
+
+#EXTINF:-1 tvg-name="GikTVMX" tvg-logo="https://canalesenvivotv.web.app/img/canales/giktvmx.webp" group-title="TV - México",GikTVMX
+https://bx-tv.com/proxy.php?url=https%3A%2F%2Fpistream.ddns.net%2Fhls%2Fstream.m3u8
+
+#EXTINF:-1 tvg-name="Canal 13 Esquipulas" tvg-logo="https://canalesenvivotv.web.app/img/canales/esquipulas.webp" group-title="TV - Guatemala",Canal 13 Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-name="Amigos TV Chiquimula" tvg-logo="https://canalesenvivotv.web.app/img/canales/chiquimula.webp" group-title="TV - Guatemala",Amigos TV Chiquimula
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
