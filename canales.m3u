@@ -48,19 +48,19 @@ https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/index.m3u8
 
 # Canal 09
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/atv.webp" group-title="Canales De Tv - Perú",ATV
-https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
-#http://187.102.210.46/ATV/index.m3u8
+#https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+http://187.102.210.46/ATV/index.m3u8
 #http://190.93.224.42/ATV/index.m3u8
 
 # Canal 10
 #EXTINF:-1 tvg-name="ATV +" tvg-id="ATVPlus.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/atvmas.webp" group-title="Canales De Tv - Perú",ATV +
-https://ddycmnicl95kp.cloudfront.net/live/32nynqn38go4/master.m3u8
-#http://190.93.224.42/ATV-PLUS/index.m3u8
+#https://ddycmnicl95kp.cloudfront.net/live/32nynqn38go4/master.m3u8
+http://190.93.224.42/ATV-PLUS/index.m3u8
 
 # Canal 11
 #EXTINF:-1 tvg-name="ATV Sur" tvg-id="ATVSur.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/atvsur.webp" group-title="Canales De Tv - Perú",ATV Sur
-https://ddycmnicl95kp.cloudfront.net/live/jryddd3ktckq/master.m3u8
-#http://190.93.224.42/ATV-SUR/index.m3u8
+#https://ddycmnicl95kp.cloudfront.net/live/jryddd3ktckq/master.m3u8
+http://190.93.224.42/ATV-SUR/index.m3u8
 
 # Canal 12
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/globaltv.webp" group-title="Canales De Tv - Perú",Global TV
