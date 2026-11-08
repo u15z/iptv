@@ -7,10 +7,15 @@ https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8
 # Canal 02
 #EXTINF:-1 tvg-name="Latina" tvg-id="Latina.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/latina.webp" group-title="Canales De Tv - Perú",Latina
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+#http://190.93.224.42/LATINA/index.m3u8
+#http://45.171.108.253:8888/LATINA/index.m3u8
+#https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
 
 # Canal 03
 #EXTINF:-1 tvg-name="Latina Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/latinaclasicos.webp" group-title="Canales De Tv - Perú",Latina Clasicos
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
+#https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 # Canal 04
 #EXTINF:-1 tvg-name="America TV" tvg-id="AmericaTelevision.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/americatv.webp" group-title="Canales De Tv - Perú",America TV
@@ -19,34 +24,48 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 # Canal 05
 #EXTINF:-1 tvg-name="Panamericana TV" tvg-id="PanamericanaTV.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/panamericana.webp" group-title="Canales De Tv - Perú",Panamericana TV
 https://cablered.iptvperu.tv:1936/transcoder/panamerica_local.stream/playlist.m3u8
+#http://45.171.108.253:8888/PANAMERICANA/index.m3u8
+#http://190.93.224.42/PANAMERICANA/index.m3u8
 
 # Canal 06
 #EXTINF:-1 tvg-name="Willax" tvg-id="WillaxTV.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/willax.webp" group-title="Canales De Tv - Perú",Willax
-https://cablered.iptvperu.tv:1936/cablered/willax-res.stream/playlist.m3u8
+http://190.93.224.42/WILLAX/index.m3u8
+#https://cablered.iptvperu.tv:1936/cablered/willax-res.stream/playlist.m3u8
 
 # Canal 07
 #EXTINF:-1 tvg-name="TV Perú" tvg-id="TVPeru.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvperu.webp" group-title="Canales De Tv - Perú",TV Perú
-https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+http://190.93.224.42/VIVA-TV/index.m3u8
+#http://190.93.224.42/TV-PERU/index.m3u8
+#https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+#http://187.102.210.46/TVPERU/index.m3u8
+#http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 
 # Canal 08
 #EXTINF:-1 tvg-name="Exitosa Noticias" tvg-id="ExitosaTV.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/exitosanoticias.webp" group-title="Canales De Tv - Perú",Exitosa Noticias
 https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/index.m3u8
+#http://187.102.210.46/EXITOSA/index.m3u8
+#http://190.93.224.42/EXITOSA/index.m3u8
 
 # Canal 09
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/atv.webp" group-title="Canales De Tv - Perú",ATV
 https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+#http://187.102.210.46/ATV/index.m3u8
+#http://190.93.224.42/ATV/index.m3u8
 
 # Canal 10
 #EXTINF:-1 tvg-name="ATV +" tvg-id="ATVPlus.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/atvmas.webp" group-title="Canales De Tv - Perú",ATV +
 https://ddycmnicl95kp.cloudfront.net/live/32nynqn38go4/master.m3u8
+#http://190.93.224.42/ATV-PLUS/index.m3u8
 
 # Canal 11
 #EXTINF:-1 tvg-name="ATV Sur" tvg-id="ATVSur.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/atvsur.webp" group-title="Canales De Tv - Perú",ATV Sur
 https://ddycmnicl95kp.cloudfront.net/live/jryddd3ktckq/master.m3u8
+#http://190.93.224.42/ATV-SUR/index.m3u8
 
 # Canal 12
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/globaltv.webp" group-title="Canales De Tv - Perú",Global TV
 https://cablered.iptvperu.tv:1936/cablered/global.stream/chunks.m3u8
+#http://187.102.210.46/GLOBAL/index.m3u8
 
 # Canal 13
 #EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://canalesenvivotv.web.app/img/canales/cinecanal.webp" group-title="Peliculas",Cine Canal
@@ -59,6 +78,7 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 # Canal 15
 #EXTINF:-1 tvg-name="PBO Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/pbonoticias.webp" group-title="Canales De Tv - Perú",PBO Noticias
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
+#http://190.93.224.42/PBO/index.m3u8
 
 # Canal 16
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://canalesenvivotv.web.app/img/canales/fx.webp" group-title="Peliculas",FX
@@ -87,6 +107,10 @@ https://play.agenciastreaming.com:8081/palmerastv/index.m3u8
 # Canal 22
 #EXTINF:-1 tvg-name="Canal +TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/canalmastv.webp" group-title="Canales De Tv - Perú",Canal +TV
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
+
+# Canal 22
+#EXTINF:-1 tvg-name="Wtv TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/wtvtv.webp" group-title="Canales De Tv - Perú",Wtv TV
+https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 
 # Canal 23
 #EXTINF:-1 tvg-name="Canela TV Internacional" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Estados Unidos",Canela TV
@@ -153,16 +177,22 @@ https://live-evg13.tv360.bitel.com.pe/bitel/juntostvSRT/chunks.m3u8
 http://187.102.210.46/IPE/index.m3u8
 
 # Canal 39
+#EXTINF:-1 tvg-name="Bicolor Premium" tvg-logo="https://canalesenvivotv.web.app/img/canales/bicolorpremium.webp" group-title="Deportes",Bicolor Premium
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+
+# Canal 39
 #EXTINF:-1 tvg-name="Contacto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/contactotv.webp" group-title="Deportes",Contacto TV
 https://live.obslivestream.com/contactoplaymax/tracks-v1a1/mono.m3u8
 
 # Canal 40
 #EXTINF:-1 tvg-name="Liga 1" tvg-logo="https://canalesenvivotv.web.app/img/canales/liga1.webp" group-title="Deportes",Liga 1
 https://cablered.iptvperu.tv:1936/cablered/Liga1_new/chunks.m3u8
+#http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 # Canal 41
 #EXTINF:-1 tvg-name="Liga 1 MAX" tvg-logo="https://canalesenvivotv.web.app/img/canales/l1max.webp" group-title="Deportes",Liga 1 MAX
-https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/chunks.m3u8
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+#https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/chunks.m3u8
 
 # Canal 42
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://canalesenvivotv.web.app/img/canales/espn.webp" group-title="Deportes",ESPN
@@ -408,6 +438,14 @@ https://cablered.iptvperu.tv:1936/cablered/space_new/chunks.m3u8
 #EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/gentv.webp" group-title="Mas Peliculas - Paraguay",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 
+# Canal 102
+#EXTINF:-1 tvg-name="BNB Digital" tvg-logo="https://canalesenvivotv.web.app/img/canales/bnbdigital.webp" group-title="Mas Peliculas - Perú",BNB Digital
+https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
+
+# Canal 102
+#EXTINF:-1 tvg-name="Cajamarca TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvjesus.webp" group-title="Mas Peliculas - Perú",Cajamarca TV
+https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
+
 # Canal 103
 #EXTINF:-1 tvg-name="Amazonia TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amazoniatv.webp" group-title="Mas Peliculas - Perú",Amazonia TV
 https://live.teve.pro/live/altramediaperu/index.m3u8
@@ -419,6 +457,10 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 # Canal 105
 #EXTINF:-1 tvg-name="Genios HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/genioshd.webp" group-title="Mas Peliculas",Genios HD
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
+
+# Canal 105
+#EXTINF:-1 tvg-name="CVN TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/cvntv.webp" group-title="Mas Peliculas",CVN TV
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 
 # Canal 106
 #EXTINF:-1 tvg-name="Ciudad Mágica" tvg-logo="https://canalesenvivotv.web.app/img/canales/ciudadmagicatv.webp" group-title="Mas Peliculas - Argentina",Ciudad Mágica
@@ -436,10 +478,6 @@ https://tv.sistemasandinos.org/rumbatv/video.m3u8
 #EXTINF:-1 tvg-name="TLS Teleselva" tvg-logo="https://canalesenvivotv.web.app/img/canales/teleselva.webp" group-title="Mas Peliculas - Perú",TLS Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
-# Canal 110
-#EXTINF:-1 tvg-name="RSelva Televisión" tvg-logo="https://canalesenvivotv.web.app/img/canales/rselvatv.webp" group-title="Mas Peliculas - Perú",RSelva Televisión
-https://live.obslivestream.com/selvatv/index.m3u8
-
 # Canal 111
 #EXTINF:-1 tvg-name="DeltaTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/deltatv.webp" group-title="Mas Noticieros Y Variedades - Perú",DeltaTV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
@@ -447,10 +485,8 @@ https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 # Canal 112
 #EXTINF:-1 tvg-name="Nativa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/nativatv.webp" group-title="Mas Noticieros Y Variedades",Nativa TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-
-# Canal 113
-#EXTINF:-1 tvg-name="Nativa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/nativatv.webp" group-title="Mas Noticieros Y Variedades",Nativa TV
-https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/8.m3u8
+#https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/8.m3u8
+#http://187.102.210.46/NATIVATV/index.m3u8
 
 # Canal 114
 #EXTINF:-1 tvg-name="RT Televisión" tvg-logo="https://canalesenvivotv.web.app/img/canales/rtespanol.webp" group-title="Mas Noticieros Y Variedades - Venezuela",RT Televisión
@@ -508,6 +544,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-211970/playlist.m3u8
 #EXTINF:-1 tvg-name="EnerGeek" tvg-logo="https://canalesenvivotv.web.app/img/canales/energeektv.webp" group-title="Canales Kids & Anime",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 
+# Canal 127
+#EXTINF:-1 tvg-name="ABTelevision" tvg-logo="https://canalesenvivotv.web.app/img/canales/abtelevision.webp" group-title="Canales Kids & Anime",ABTelevision
+https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
+
 # Canal 128
 #EXTINF:-1 tvg-name="El Chavo TV" tvg-id="ElChavoTV.mx@HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotv.webp" group-title="Canales Kids & Anime",Chavo del 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -547,6 +587,7 @@ https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
 # Canal 137
 #EXTINF:-1 tvg-name="Chiki Toonz" tvg-logo="https://canalesenvivotv.web.app/img/canales/chikitoonz.webp" group-title="Canales Kids & Anime",Chiki Toonz
 https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/chunks.m3u8
+#http://45.70.201.81:8000/play/a00p/index.m3u8
 
 # Canal 138
 #EXTINF:-1 tvg-name="Peques TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/pequestv.webp" group-title="Canales Kids & Anime - Perú",Peques TV
@@ -586,11 +627,12 @@ https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w2067366756.m3u8
 
 # Canal 147
 #EXTINF:-1 tvg-name="Neo TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/neotv.webp" group-title="Canales Kids & Anime - Argentina",Neo TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
 # Canal 148
 #EXTINF:-1 tvg-name="Lider TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/lidertv.webp" group-title="Canales Kids & Anime - Perú",Lider TV
-https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
+https://chankillo.agenciastreaming.com/lidertv/index.m3u8
+#https://chankillo.agenciastreaming.com/lidertv/tracks-v1a1/mono.m3u8
 
 # Canal 149
 #EXTINF:-1 tvg-name="Unicentro" tvg-logo="https://canalesenvivotv.web.app/img/canales/nexxortv.webp" group-title="Canales Kids & Anime",Unicentro
@@ -614,7 +656,8 @@ https://cablered.iptvperu.tv:1936/Cablered/azcorazon_new/playlist.m3u8
 
 # Canal 154
 #EXTINF:-1 tvg-name="La Tele" tvg-logo="https://canalesenvivotv.web.app/img/canales/latele.webp" group-title="Novelas",La Tele
-https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/chunks.m3u8
+http://190.93.224.42/LA-TELE/index.m3u8
+#https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/chunks.m3u8
 
 # Canal 155
 #EXTINF:-1 tvg-name="Corazón" tvg-logo="https://canalesenvivotv.web.app/img/canales/corazontv.webp" group-title="Novelas - Mexico",Corazón
@@ -626,6 +669,10 @@ https://live.obslivestream.com/canal8/index.m3u8
 
 # Canal 157
 #EXTINF:-1 tvg-name="Antena Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/antenasur.webp" group-title="Peliculas - Perú . Juliaca",Antena Sur
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+# Canal 157
+#EXTINF:-1 tvg-name="Antena Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/antenasurtv.webp" group-title="Peliculas - Perú",Antena Sur
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 
 # Canal 158
@@ -643,6 +690,10 @@ https://cablered.iptvperu.tv:1936/cablered/hispanoamerica.stream/chunks.m3u8
 # Canal 161
 #EXTINF:-1 tvg-name="Neox TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/neoxtv.webp" group-title="Peliculas - Argentina",Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+
+# Canal 147
+#EXTINF:-1 tvg-name="Onda TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/ondatv.webp" group-title="Peliculas - Perú",Onda TV
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
 # Canal 162
 #EXTINF:-1 tvg-name="TVE Star" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvestar.webp" group-title="Peliculas - España",TVE Star
@@ -664,6 +715,7 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-name="Amazónica TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amazonicatvv.webp" group-title="Peliculas - Perú",Amazónica TV
 https://live.obslivestream.com/amazonicatv/index.m3u8
 
+
 # Canal 167
 #EXTINF:-1 tvg-name="Loreto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/loretotv.webp" group-title="Mas Noticieros Y Variedades - Ecuador",Loreto TV
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
@@ -679,10 +731,12 @@ https://live.obslivestream.com/dobleaa/tracks-v1a1/mono.m3u8
 # Canal 170
 #EXTINF:-1 tvg-name="Uranio TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/uraniotv.webp" group-title="Mas Noticieros Y Variedades - Perú",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
+#https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
 
 # Canal 171
 #EXTINF:-1 tvg-name="Planea TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/planetajaentv.webp" group-title="Mas Noticieros Y Variedades - Perú . Jaen",Planea TV
 https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8
+#https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 
 # Canal 172
 #EXTINF:-1 tvg-name="USA" tvg-logo="https://canalesenvivotv.web.app/img/canales/usa.webp" group-title="Mas Noticieros Y Variedades",USA
@@ -694,7 +748,8 @@ https://cablered.iptvperu.tv:1936/cablered/SRT_cadena/chunks.m3u8
 
 # Canal 174
 #EXTINF:-1 tvg-name="Doble C Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/doblectelevision.webp" group-title="Mas Noticieros Y Variedades - Perú",Doble C Television
-https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
+#https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/chunks.m3u8
 
 # Canal 175
 #EXTINF:-1 tvg-name="TVS Peliculas" tvg-logo="https://canalesenvivotv.web.app/img/canales/tvspeliculas.webp" group-title="Mas Noticieros Y Variedades",TVS Peliculas
@@ -702,7 +757,7 @@ https://vcp10.myplaytv.com/tvs/tvs/chunklist_w1474821475.m3u8
 
 # Canal 176
 #EXTINF:-1 tvg-name="Charapa TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/charapatv.webp" group-title="Mas Noticieros Y Variedades - Perú",Charapa TV
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg10.tv360.bitel.com.pe%2Fbitel%2FcharapatvSRT%2Fplaylist.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 
 # Canal 177
 #EXTINF:-1 tvg-name="TeleSUR Costa Rica" tvg-logo="https://canalesenvivotv.web.app/img/canales/telesurcostarica.webp" group-title="Mas Noticieros Y Variedades",TeleSUR Costa Rica
@@ -792,6 +847,10 @@ https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="CR Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/crtelevision.webp" group-title="Canales De Calidad Sd - Perú",CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
 
+# Canal 198
+#EXTINF:-1 tvg-name="Bella Asunción" tvg-logo="https://canalesenvivotv.web.app/img/canales/bellaasunciontv.webp" group-title="Canales De Calidad Sd - Perú",Bella Asunción
+https://live.obslivestream.com/crtvmux/index.m3u8
+
 # Canal 199
 #EXTINF:-1 tvg-name="Suceso TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/sucesotv.webp" group-title="Canales De Calidad Sd - Paraguay",Suceso TV
 https://edge.enhdtv.com/8060/tracks-v1a1/mono.m3u8
@@ -815,6 +874,9 @@ https://live.obslivestream.com/rtvxplorer/index.m3u8
 # Canal 204
 #EXTINF:-1 tvg-name="Trivu" tvg-logo="https://canalesenvivotv.web.app/img/canales/tributv.webp" group-title="Canales De Cine Y Variedades - Perú",Trivu
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/chunks.m3u8
+#http://190.93.224.42/TRIVU-TV/index.m3u8
+#https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+#https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 
 # Canal 205
 #EXTINF:-1 tvg-name="Perú Go TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/perugotv.webp" group-title="Canales De Cine Y Variedades - Perú",Perú Go TV
@@ -833,12 +895,17 @@ https://cablered.iptvperu.tv:1936/Cablered/imperialtv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 # Canal 209
-#EXTINF:-1 tvg-name="Impacto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/impactotelevisiontv.webp" group-title="Canales De Cine Y Variedades",Impacto TV
+#EXTINF:-1 tvg-name="EcoXtreme TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/ecoxtremetv.webp" group-title="Canales De Cine Y Variedades",EcoXtreme TV
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#https://cloudpro.servidoresdestream.com:8081/8010/tracks-v1a1/mono.m3u8
 
 # Canal 210
 #EXTINF:-1 tvg-name="Impacto TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/impactotelevisiontv.webp" group-title="Canales De Cine Y Variedades",Impacto TV
-https://cloudpro.servidoresdestream.com:8081/8010/tracks-v1a1/mono.m3u8
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+# Canal 210
+#EXTINF:-1 tvg-name="Visión Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/visionsur.webp" group-title="Canales De Cine Y Variedades",Visión Sur
+https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
 # Canal 211
 #EXTINF:-1 tvg-name="Cultura 24 TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/culturatv.webp" group-title="Canales De Cine Y Variedades - Perú",Cultura 24 TV
@@ -851,6 +918,7 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 # Canal 213
 #EXTINF:-1 tvg-name="VR Canal 21 Nasca" tvg-logo="https://canalesenvivotv.web.app/img/canales/vrcanal21nzk.webp" group-title="Canales De Cine Y Variedades - Perú . Nazca",VR Canal 21 Nasca
 https://eu1.servers10.com:8081/8258/index.m3u8
+#https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 
 # Canal 214
 #EXTINF:-1 tvg-name="Visión Sur" tvg-logo="https://canalesenvivotv.web.app/img/canales/visionsur.webp" group-title="Canales De Cine Y Variedades - Perú",Visión Sur
@@ -867,6 +935,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 # Canal 217
 #EXTINF:-1 tvg-name="Nativa TV Satipo" tvg-logo="https://canalesenvivotv.web.app/img/canales/nativatvsatipo.webp" group-title="Canales De Cine Y Variedades",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
 
 # Canal 218
 #EXTINF:-1 tvg-name="Telecolor Yurimaguas" tvg-logo="https://canalesenvivotv.web.app/img/canales/tevecoloryuri.webp" group-title="Canales De Cine Y Variedades",Telecolor Yurimaguas
@@ -875,6 +944,7 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 # Canal 219
 #EXTINF:-1 tvg-name="Qosqo Times" tvg-logo="https://canalesenvivotv.web.app/img/canales/qosqotimes.webp" group-title="Canales De Cine Y Variedades - Perú",Qosqo Times
 https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
+#https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
 # Canal 220
 #EXTINF:-1 tvg-name="Nacional Tv Peru" tvg-logo="https://canalesenvivotv.web.app/img/canales/nacionaltv.webp" group-title="Canales De Cine Y Variedades",Nacional Tv Peru
@@ -882,7 +952,7 @@ https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
 
 # Canal 221
 #EXTINF:-1 tvg-name="Milenial TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/milenialtv.webp" group-title="Canales De Cine Y Variedades - Perú",Milenial TV
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Fwww.milenial.news%2Fsalida%2Fmilenial.m3u8
+https://www.milenial.news/salida/milenial.m3u8
 
 # Canal 222
 #EXTINF:-1 tvg-name="Piura TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/piuratv.webp" group-title="Canales De Cine Y Variedades - Perú . Piura",Piura TV
@@ -895,6 +965,7 @@ https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
 # Canal 224
 #EXTINF:-1 tvg-name="Amazonica TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/amazonicaTV.webp" group-title="Canales De Cine Y Variedades - Perú",Amazonica TV
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+#https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 
 # Canal 225
 #EXTINF:-1 tvg-name="Solar Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/solartelevision.webp" group-title="Canales De Cine Y Variedades",Solar Television
@@ -905,12 +976,17 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tv777lv/chunks.m3u8
 
 # Canal 227
-#EXTINF:-1 tvg-name="Andes Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/andestv.webp" group-title="Canales De Cine Y Variedades - Perú . Sicuani",Andes Television
-https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-name="Andes Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/andestvhuaraz.webp" group-title="Canales De Cine Y Variedades - Perú . Huaraz",Andes Television
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 
 # Canal 228
 #EXTINF:-1 tvg-name="FuegoTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/fuegotv.webp" group-title="Canales De Cine Y Variedades",FuegoTV
 https://ia.cpustream.com/fuegotv/tracks-v1a1/mono.m3u8
+
+# Canal 228
+#EXTINF:-1 tvg-name="Zeleve TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/zelevetvv.webp" group-title="Canales De Cine Y Variedades",Zeleve TV
+https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
+#https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 
 # Canal 229
 #EXTINF:-1 tvg-name="Tele 13" tvg-logo="https://canalesenvivotv.web.app/img/canales/tele13.webp" group-title="Canales De Cine Y Variedades",Tele 13
@@ -998,15 +1074,15 @@ https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 # Canal 250
 #EXTINF:-1 tvg-name="M Television" tvg-logo="https://canalesenvivotv.web.app/img/canales/mtelevision.webp" group-title="Canales De Acceso Externo",M Television
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg10.tv360.bitel.com.pe%2Fbitel%2Fanqaratv%2Fplaylist.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
 # Canal 251
 #EXTINF:-1 tvg-name="Casma TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/casmatv.webp" group-title="Canales De Acceso Externo",Casma TV
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg7.tv360.bitel.com.pe%2Fbitel%2FcasmatvSRT-TRA%2Fplaylist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 
 # Canal 252
 #EXTINF:-1 tvg-name="Qollasuyo TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/qollasuyo.webp" group-title="Canales De Acceso Externo",Qollasuyo TV
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Fqollasuyotv%2Fplaylist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 
 # Canal 253
 #EXTINF:-1 tvg-name="Inka Vision" tvg-logo="https://canalesenvivotv.web.app/img/canales/inkavision.webp" group-title="Canales De Acceso Externo",Inka Vision
@@ -1123,6 +1199,7 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 # Canal 281
 #EXTINF:-1 tvg-name="Conecta2 TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/conecta2.webp" group-title="Canales De Cine Y Música - Perú",Conecta2 TV
 https://cablered.iptvperu.tv:1936/cablered/Conecta2_tv/chunks.m3u8
+#https://live.obslivestream.com/conecta2/index.m3u8
 
 # Canal 282
 #EXTINF:-1 tvg-name="NSTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/nstv.webp" group-title="Canales De Cine Y Música - Colombia",NSTV
@@ -1226,7 +1303,7 @@ https://servilive.com:3414/hybrid/play.m3u8
 
 # Canal 307
 #EXTINF:-1 tvg-name="Mega TV Jaen" tvg-logo="https://canalesenvivotv.web.app/img/canales/megatvjaen.webp" group-title="TV - Perú",Mega TV Jaen
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2Fmegatv%2Fplaylist.m3u8
+https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 
 # Canal 308
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://canalesenvivotv.web.app/img/canales/megatv.webp" group-title="TV - Perú",Mega
@@ -1265,5 +1342,11 @@ https://cablered.iptvperu.tv:1936/cablered/telehit-srt_new/chunks.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/chunks.m3u8
 
 # Canal 317
-#EXTINF:-1 tvg-name="RumbaMix TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/rumbamixtv.webp" group-title="Programas De Radios Y Otros",RumbaMix TV
-https://bx-tv.com/proxy.php?url=https%3A%2F%2Flive-evg5.tv360.bitel.com.pe%2Fbitel%2FmixtvSRT%2Fplaylist.m3u8
+#EXTINF:-1 tvg-name="Rumba TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/rumbamixtv.webp" group-title="Programas De Radios Y Otros",Rumba TV
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+#https://tv.sistemasandinos.org/rumbatv/video.m3u8
+
+# Canal 317
+#EXTINF:-1 tvg-name="Ozono TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/ozonotv.webp" group-title="Programas De Radios Y Otros",Ozono TV
+http://vps.chasquirouter.com/salida/ozono.m3u8
+#https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
