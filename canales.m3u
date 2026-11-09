@@ -1,8 +1,9 @@
 #EXTM3U
 
-# Canal 01
-#EXTINF:-1 tvg-name="Marvel Cinematic Universe" tvg-logo="https://canalesenvivotv.web.app/img/canales/mcu.webp" group-title="Canales De Tv - Internacional",Marvel Cinematic Universe
-https://live20.bozztv.com/akamaissh101/ssh101/imcu/playlist.m3u8
+# Canal 03
+#EXTINF:-1 tvg-name="Latina Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/latinaclasicos.webp" group-title="Canales De Tv - Perú",Latina Clasicos
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
+#https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 # Canal 02
 #EXTINF:-1 tvg-name="Latina" tvg-id="Latina.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/latina.webp" group-title="Canales De Tv - Perú",Latina
@@ -13,13 +14,13 @@ https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
 
 # Canal 03
-#EXTINF:-1 tvg-name="Latina Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/latinaclasicos.webp" group-title="Canales De Tv - Perú",Latina Clasicos
-https://jireh-3-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8
-#https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Latina Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/latinanoticias.webp" group-title="Canales De Tv - Perú",Latina Clasicos
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+#https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
 # Canal 04
 #EXTINF:-1 tvg-name="America TV" tvg-id="AmericaTelevision.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/americatv.webp" group-title="Canales De Tv - Perú",America TV
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+https://cablered.iptvperu.tv:1936/cablered/americatv-nuevo/playlist.m3u8
 
 # Canal 05
 #EXTINF:-1 tvg-name="Panamericana TV" tvg-id="PanamericanaTV.pe" tvg-logo="https://canalesenvivotv.web.app/img/canales/panamericana.webp" group-title="Canales De Tv - Perú",Panamericana TV
@@ -77,8 +78,8 @@ https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 
 # Canal 15
 #EXTINF:-1 tvg-name="PBO Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/pbonoticias.webp" group-title="Canales De Tv - Perú",PBO Noticias
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
-#http://190.93.224.42/PBO/index.m3u8
+#https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
+http://190.93.224.42/PBO/index.m3u8
 
 # Canal 16
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://canalesenvivotv.web.app/img/canales/fx.webp" group-title="Peliculas",FX
