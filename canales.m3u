@@ -65,7 +65,8 @@ http://190.93.224.42/ATV-SUR/index.m3u8
 
 # Canal 12
 #EXTINF:-1 tvg-name="Marvel Cinematic Universe" tvg-logo="https://canalesenvivotv.web.app/img/canales/mcu.webp" group-title="TV - Internacional",Marvel Cinematic Universe
-https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+https://live20.bozztv.com/akamaissh101/ssh101/imcu/playlist.m3u8
+#https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8
 
 # Canal 13
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/globaltv.webp" group-title="Canales De Tv - Perú",Global TV
@@ -73,17 +74,17 @@ https://cablered.iptvperu.tv:1936/cablered/global.stream/chunks.m3u8
 #http://187.102.210.46/GLOBAL/index.m3u8
 
 # Canal 14
-#EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://canalesenvivotv.web.app/img/canales/cinecanal.webp" group-title="Peliculas",Cine Canal
-https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/chunks.m3u8
-
-# Canal 15
 #EXTINF:-1 tvg-name="RPP Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/rppnoticias.webp" group-title="Canales De Tv - Perú",RPP Noticias
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 
-# Canal 16
+# Canal 15
 #EXTINF:-1 tvg-name="PBO Noticias" tvg-logo="https://canalesenvivotv.web.app/img/canales/pbonoticias.webp" group-title="Canales De Tv - Perú",PBO Noticias
 #https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 http://190.93.224.42/PBO/index.m3u8
+
+# Canal 16
+#EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://canalesenvivotv.web.app/img/canales/cinecanal.webp" group-title="Peliculas",Cine Canal
+https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/chunks.m3u8
 
 # Canal 17
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://canalesenvivotv.web.app/img/canales/fx.webp" group-title="Peliculas",FX
@@ -119,23 +120,23 @@ https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 
 # Canal 25
-#EXTINF:-1 tvg-name="Canela TV Internacional" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Estados Unidos",Canela TV
+#EXTINF:-1 tvg-name="Canela TV Int." tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Estados Unidos",Canela TV Int.
 https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
 
 # Canal 26
-#EXTINF:-1 tvg-name="Canela TV Latam" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Mexico",Canela TV
+#EXTINF:-1 tvg-name="Canela TV Latam" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Mexico",Canela TV Latam
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 
 # Canal 27
-#EXTINF:-1 tvg-name="Canela TV Narco Drama" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Estados Uidos",Narco Drama
+#EXTINF:-1 tvg-name="Canela TV Narco Drama" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Estados Uidos",Canela TV Narco Drama
 https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
 
 # Canal 28
-#EXTINF:-1 tvg-name="Canela TV Novelas Legendarias" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Ecuador",Novelas Legendarias
+#EXTINF:-1 tvg-name="Canela TV Novelas Legendarias" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Ecuador",Canela TV Novelas Legendarias
 https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/1080p/index.m3u8
 
 # Canal 29
-#EXTINF:-1 tvg-name="Canela TV Novelas Turcas" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Ecuador",Novelas Turcas
+#EXTINF:-1 tvg-name="Canela TV Novelas Turcas" tvg-logo="https://canalesenvivotv.web.app/img/canales/canelatv.webp" group-title="Canales De Tv - Ecuador",Canela TV Novelas Turcas
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
 
 # Canal 30
@@ -147,11 +148,11 @@ https://cablered.iptvperu.tv:1936/cablered/telemundo_new/chunks.m3u8
 https://cdnlive.klicgo.net/rcnnovelas/live/chunklist_w1774164529.m3u8
 
 # Canal 32
-#EXTINF:-1 tvg-name="RCN Más Plex" tvg-id="RCNMas.co" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnmas.webp" group-title="Canales De Tv - Colombia . Plex",RCN Más
+#EXTINF:-1 tvg-name="RCN Más Plex" tvg-id="RCNMas.co" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnmas.webp" group-title="Canales De Tv - Colombia . Plex",RCN Más Plex
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 # Canal 33
-#EXTINF:-1 tvg-name="RCN Más Roku" tvg-id="RCNMas.co" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnmas.webp" group-title="Canales De Tv - Colombia . Roku",RCN Más+
+#EXTINF:-1 tvg-name="RCN Más Roku" tvg-id="RCNMas.co" tvg-logo="https://canalesenvivotv.web.app/img/canales/rcnmas.webp" group-title="Canales De Tv - Colombia . Roku",RCN Más Roku
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 # Canal 34
@@ -258,23 +259,23 @@ https://cablered.iptvperu.tv:1936/cablered/natgeo_new/chunks.m3u8
 https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/chunks.m3u8
 
 # Canal 59
-#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryturbo.webp" group-title="Documentales",Turbo
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryturbo.webp" group-title="Documentales",Discovery Turbo
 https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/chunks.m3u8
 
 # Canal 60
-#EXTINF:-1 tvg-name="Discovery Sciense" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryscience.webp" group-title="Documentales",Sciense
+#EXTINF:-1 tvg-name="Discovery Sciense" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryscience.webp" group-title="Documentales",Discovery Sciense
 https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/chunks.m3u8
 
 # Canal 61
-#EXTINF:-1 tvg-name="Discovery H-H" tvg-id="DiscoveryHomeHealthLatinAmerica.mx" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryhh.webp" group-title="Documentales",H-H
+#EXTINF:-1 tvg-name="Discovery H&H" tvg-id="DiscoveryHomeHealthLatinAmerica.mx" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryhh.webp" group-title="Documentales",Discovery H&H
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
 # Canal 62
-#EXTINF:-1 tvg-name="Discovery HGTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryhgtv.webp" group-title="Documentales",HGTV
+#EXTINF:-1 tvg-name="Discovery HGTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/discoveryhgtv.webp" group-title="Documentales",Discovery HGTV
 https://cablered.iptvperu.tv:1936/cablered/HGTV_new/chunks.m3u8
 
 # Canal 63
-#EXTINF:-1 tvg-name="Discovery Id" tvg-logo="https://canalesenvivotv.web.app/img/canales/iddiscovery.webp" group-title="Documentales",Id
+#EXTINF:-1 tvg-name="Discovery Id" tvg-logo="https://canalesenvivotv.web.app/img/canales/iddiscovery.webp" group-title="Documentales",Discovery Id
 https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/chunks.m3u8
 
 # Canal 64
@@ -347,23 +348,23 @@ https://cablered.iptvperu.tv:1936/cablered/studio_universal.stream/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 # Canal 81
-#EXTINF:-1 tvg-name="Sony Acción" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyacciontv.webp" group-title="Peliculas",Acción
+#EXTINF:-1 tvg-name="Sony Acción" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyacciontv.webp" group-title="Peliculas",Sony Acción
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 
 # Canal 82
-#EXTINF:-1 tvg-name="Sony Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonycomediatv.webp" group-title="Peliculas",Comedia
+#EXTINF:-1 tvg-name="Sony Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonycomediatv.webp" group-title="Peliculas",Sony Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 
 # Canal 83
-#EXTINF:-1 tvg-name="Sony Series Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyseriescomediatv.webp" group-title="Peliculas",Series Comedia
+#EXTINF:-1 tvg-name="Sony Series Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyseriescomediatv.webp" group-title="Peliculas",Sony Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
 # Canal 84
-#EXTINF:-1 tvg-name="Sony Exitos" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyexitostv.webp" group-title="Peliculas",Exitos
+#EXTINF:-1 tvg-name="Sony Exitos" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyexitostv.webp" group-title="Peliculas",Sony Exitos
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 
 # Canal 85
-#EXTINF:-1 tvg-name="Sony Blacklist" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyblacklisttv.webp" group-title="Peliculas",Blacklist
+#EXTINF:-1 tvg-name="Sony Blacklist" tvg-logo="https://canalesenvivotv.web.app/img/canales/sonyblacklisttv.webp" group-title="Peliculas",Sony Blacklist
 https://d25v414d53fogv.cloudfront.net/playlist.m3u8
 
 # Canal 86
@@ -375,39 +376,39 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16611
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 
 # Canal 88
-#EXTINF:-1 tvg-name="Runtime Series" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Series
+#EXTINF:-1 tvg-name="Runtime Series" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Series
 https://run-rss.otteravision.com/run/rss/rss_720.m3u8
 
 # Canal 89
-#EXTINF:-1 tvg-name="Runtime Acción" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Acción
+#EXTINF:-1 tvg-name="Runtime Acción" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Acción
 https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
 
 # Canal 90
-#EXTINF:-1 tvg-name="Runtime Crimen" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Crimen
+#EXTINF:-1 tvg-name="Runtime Crimen" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Crimen
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 
 # Canal 91
-#EXTINF:-1 tvg-name="Runtime Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Clasicos
+#EXTINF:-1 tvg-name="Runtime Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
 # Canal 92
-#EXTINF:-1 tvg-name="Runtime Trash" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Trash
+#EXTINF:-1 tvg-name="Runtime Trash" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Trash
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
 
 # Canal 93
-#EXTINF:-1 tvg-name="Runtime Familia" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Familia
+#EXTINF:-1 tvg-name="Runtime Familia" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 
 # Canal 94
-#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Romance
+#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Romance
 https://stream.ads.ottera.tv/cl/261017db9c8m25h9ac738o8ml0/1280x720_3071200_0_f.m3u8
 
 # Canal 95
-#EXTINF:-1 tvg-name="Runtime Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimecomedia.webp" group-title="Peliculas - Internacional",Comedia
+#EXTINF:-1 tvg-name="Runtime Comedia" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimecomedia.webp" group-title="Peliculas - Internacional",Runtime Comedia
 https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
 
 # Canal 96
-#EXTINF:-1 tvg-name="Runtime Rebelde" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Rebelde
+#EXTINF:-1 tvg-name="Runtime Rebelde" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Rebelde
 https://stream.ads.ottera.tv/cl/261016db9as0edeb6s73fc8hh0/854x480_1355200_2_f.m3u8?i=728_16288
 
 # Canal 97
@@ -495,7 +496,7 @@ https://tv.sistemasandinos.org/rumbatv/video.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 # Canal 118
-#EXTINF:-1 tvg-name="DeltaTV" tvg-logo="https://canalesenvivotv.web.app/img/canales/deltatv.webp" group-title="Mas Noticieros Y Variedades - Perú",DeltaTV
+#EXTINF:-1 tvg-name="Delta TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/deltatv.webp" group-title="Mas Noticieros Y Variedades - Perú",Delta TV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
 # Canal 119
@@ -509,7 +510,7 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 # Canal 121
-#EXTINF:-1 tvg-name="Tevesur" tvg-logo="https://canalesenvivotv.web.app/img/canales/tevesurr.webp" group-title="Mas Noticieros Y Variedades - Peru . Cusco",Tevesur
+#EXTINF:-1 tvg-name="Tevesur" tvg-logo="https://canalesenvivotv.web.app/img/canales/tevesurr.webp" group-title="Mas Noticieros Y Variedades - Peru . Cusco",TeveSur
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
 # Canal 122
@@ -539,7 +540,7 @@ https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
 
 # Canal 128
-#EXTINF:-1 tvg-name="Disney Junior America North HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/disneyjr.webp" group-title="Canales Kids & Anime",Disney Junior
+#EXTINF:-1 tvg-name="Disney Junior America North HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/disneyjr.webp" group-title="Canales Kids & Anime",Disney Junior North HD
 http://181.78.14.26:4000/play/a073/index.m3u8
 
 # Canal 129
@@ -571,11 +572,11 @@ https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
 # Canal 136
-#EXTINF:-1 tvg-name="El Chavo TV" tvg-id="ElChavoTV.mx@HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotv.webp" group-title="Canales Kids & Anime",Chavo del 8
+#EXTINF:-1 tvg-name="El Chavo TV" tvg-id="ElChavoTV.mx@HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotv.webp" group-title="Canales Kids & Anime",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 # Canal 137
-#EXTINF:-1 tvg-name="El Chavo del Ocho HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotvV.webp" group-title="Canales Kids & Anime",El Chavo del 8
+#EXTINF:-1 tvg-name="El Chavo del Ocho HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/elchavotvV.webp" group-title="Canales Kids & Anime",El Chavo del Ocho HD
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 
 # Canal 138
@@ -587,7 +588,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 # Canal 140
-#EXTINF:-1 tvg-name="Dragon Ball Peliculas" tvg-logo="https://canalesenvivotv.web.app/img/canales/gokupelis.webp" group-title="Canales Kids & Anime",Peliculas
+#EXTINF:-1 tvg-name="Dragon Ball Peliculas" tvg-logo="https://canalesenvivotv.web.app/img/canales/gokupelis.webp" group-title="Canales Kids & Anime",Dragon Ball Peliculas
 https://live20.bozztv.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
 
 # Canal 141
