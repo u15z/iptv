@@ -63,6 +63,10 @@ http://190.93.224.42/ATV-PLUS/index.m3u8
 #https://ddycmnicl95kp.cloudfront.net/live/jryddd3ktckq/master.m3u8
 http://190.93.224.42/ATV-SUR/index.m3u8
 
+# Canal 11
+#EXTINF:-1 tvg-name="Marvel Cinematic Universe" tvg-logo="https://canalesenvivotv.web.app/img/canales/mcu.webp" group-title="TV - Internacional",Marvel Cinematic Universe
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/chunks.m3u8?lb_backend_hint=7
+
 # Canal 12
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/globaltv.webp" group-title="Canales De Tv - Perú",Global TV
 https://cablered.iptvperu.tv:1936/cablered/global.stream/chunks.m3u8
