@@ -93,6 +93,7 @@ https://cablered.iptvperu.tv:1936/cablered/fx_new/chunks.m3u8
 # Canal 18
 #EXTINF:-1 tvg-name="Star Channel" tvg-logo="https://canalesenvivotv.web.app/img/canales/starchannel.webp" group-title="Peliculas",Star Channel
 https://cablered.iptvperu.tv:1936/cablered/starchannel_new/chunks.m3u8
+#http://181.78.23.26:45000/play/a008
 
 # Canal 19
 #EXTINF:-1 tvg-name="DHE" tvg-logo="https://canalesenvivotv.web.app/img/canales/dhe.webp" group-title="Peliculas",DHE
@@ -395,6 +396,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
 #EXTINF:-1 tvg-name="Runtime Clasicos" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
+# Canal 91
+#EXTINF:-1 tvg-name="Hola!TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/HolaTV.webp" group-title="Peliculas - Internacional",Hola!TV
+http://179.51.136.19:8000/play/a0z3/index.m3u8
+
 # Canal 92
 #EXTINF:-1 tvg-name="Runtime Trash" tvg-logo="https://canalesenvivotv.web.app/img/canales/runtimetv.webp" group-title="Peliculas - Internacional",Runtime Trash
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
@@ -454,6 +459,7 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 # Canal 106
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://canalesenvivotv.web.app/img/canales/space.webp" group-title="Mas Peliculas - Argentina",Space
 https://cablered.iptvperu.tv:1936/cablered/space_new/chunks.m3u8
+#http://179.51.136.19:8000/play/a0y0/index.m3u8
 
 # Canal 107
 #EXTINF:-1 tvg-name="Gen TV" tvg-logo="https://canalesenvivotv.web.app/img/canales/gentv.webp" group-title="Mas Peliculas - Paraguay",Gen TV
