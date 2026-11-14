@@ -339,6 +339,10 @@ https://cablered.iptvperu.tv:1936/cablered/goldenlat-srt_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/goldenedge-srt_new/playlist.m3u8
 #http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 
+# Canal 78
+#EXTINF:-1 tvg-name="Golden Premier HD" tvg-logo="https://canalesenvivotv.web.app/img/canales/goldenpremierhd.webp" group-title="Peliculas",Golden Premier HD
+http://179.51.136.19:8000/play/a0zf/index.m3u8
+
 # Canal 79
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://canalesenvivotv.web.app/img/canales/studiouniversal.webp" group-title="Peliculas",Studio Universal
 https://cablered.iptvperu.tv:1936/cablered/studio_universal.stream/playlist.m3u8
